@@ -1,5 +1,5 @@
 # npm_latest_packages
-A simple Python program that queries the Libraries.io api to pull down the latests published and updated NPM packages
+A simple Python program that queries the Libraries.io api to pull down the latest published and updated NPM packages
 
 
 NOTE: THIS PROGRAM WILL NOT WORK IF YOU DO NOT HAVE A LIBRARIES.IO API KEY AND HAVE IT INSERTED INTO THE api_key VARIABLE ON LINE 21. SEE BELOW ON HOW TO OBTAIN API KEY
