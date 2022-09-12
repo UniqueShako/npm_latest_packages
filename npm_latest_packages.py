@@ -20,7 +20,7 @@ from os.path import exists
 
 
 
-api_key = '7806edf5c32149673796ccc311180404' #PUT YOUR API KEY HERE SURROUNDED BY QUOTES eg. 'thisisyourapikey'
+api_key = '' #PUT YOUR API KEY HERE SURROUNDED BY QUOTES eg. 'thisisyourapikey'
 counter = 0 #used to increase page count
 failcount = 0 #keep track of failures
 keepgoing = True #looper, set set to false if date does not equal today
