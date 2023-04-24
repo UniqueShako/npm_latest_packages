@@ -14,4 +14,3 @@ This may take several minutes (There are a LOT of NPM packages posted and update
 
 If it encounters 10 error messages over the course of running, the program will clean up duplicates and end. You can try messing with the error threshold if you're not getting enough results. The libraries.io API is unstable and will return 502 bad gateway errors at some points. I haven't been able to determine a pattern for these besides that it seems to happen around 3-5 thousand entries.
 
-Feel free to contact me on discord with improvements or additional features -> Step bro Taylor#2209
